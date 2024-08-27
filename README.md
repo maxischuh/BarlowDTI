@@ -12,6 +12,8 @@ In addition, we further benchmark new baselines against existing methods.
 Together, these innovations improve the efficiency and effectiveness of drug–target interaction predictions, providing robust tools for accelerating drug development and deepening the understanding of molecular interactions. 
 Therefore, we provide an easy-to-use web interface that can be freely accessed at https://www.bio.nat.tum.de/oc2/barlowdti.
 
+![Graphical abstract](toc_final.svg)
+
 ## Code and Data
 
 You can find our code and data stored in this repository.
