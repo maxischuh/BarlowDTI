@@ -25,7 +25,7 @@ If you use our work in your research, please cite:
 ```
 @misc{schuh2024barlowtwinsdeepneural,
       title={Barlow Twins Deep Neural Network for Advanced 1D Drug-Target Interaction Prediction}, 
-      author={Maximilian G. Schuh and Davide Boldini and Stephan A. Sieber},
+      author={Maximilian G. Schuh and Davide Boldini and Annkathrin I. Bohne and Stephan A. Sieber},
       year={2024},
       eprint={2408.00040},
       archivePrefix={arXiv},
